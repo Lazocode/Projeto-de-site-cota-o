@@ -8,7 +8,7 @@ Site de cotação de moedas em tempo real, com comparador de câmbio. Feito com 
 <br />
 
 <p align="center">
-  <img src="./vite-project/src/assets/demo.gif alt="Demo do CotaJá" width="100%" />
+  <img src="./vite-project/src/assets/demo.gif" alt="Demo do CotaJá" width="100%" />
 </p>
 
 <br />
